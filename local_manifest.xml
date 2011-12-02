@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- local manifest for most builds -->
+    <remote name="motomagic" fetch="git://github.com/MotoMagic/" />
+
+    <project path="android_local" name="android_local" remote="motomagic" />
+
+    <project path="device/motorola/common" name="android_device_motorola_common" remote="motomagic" />
+    <project path="device/motorola/shadow" name="android_device_motorola_shadow" remote="motomagic" />
+    <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="motomagic" />
+
+</manifest>
+
