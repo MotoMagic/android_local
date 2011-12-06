@@ -13,6 +13,10 @@
     <project path="device/motorola/common" name="android_device_motorola_common" remote="motomagic" />
     <project path="device/motorola/droid2" name="android_device_motorola_droid2" remote="motomagic" />
     <project path="device/motorola/shadow" name="android_device_motorola_shadow" remote="motomagic" />
+    <project path="device/motorola/solana" name="android_device_motorola_solana" remote="motomagic" />
+
+    <project path="external/bootmenu" name="android_external_bootmenu" remote="motomagic" />
+
     <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="motomagic-p" />
 
 </manifest>
