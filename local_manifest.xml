@@ -8,16 +8,16 @@
     <remote name="motomagic-p"
            fetch="git+ssh://git@github.com/MotoMagic/" />
 
-    <project path="android_local" name="android_local" remote="motomagic" />
+    <project path="android_local" name="android_local" remote="motomagic" revision="ics" />
 
-    <project path="device/motorola/common" name="android_device_motorola_common" remote="motomagic" />
-    <project path="device/motorola/droid2" name="android_device_motorola_droid2" remote="motomagic" />
-    <project path="device/motorola/shadow" name="android_device_motorola_shadow" remote="motomagic" />
-    <project path="device/motorola/solana" name="android_device_motorola_solana" remote="motomagic" />
+    <project path="device/motorola/common" name="android_device_motorola_common" remote="motomagic" revision="ics" />
+    <project path="device/motorola/droid2" name="android_device_motorola_droid2" remote="motomagic" revision="ics" />
+    <project path="device/motorola/shadow" name="android_device_motorola_shadow" remote="motomagic" revision="ics" />
+    <project path="device/motorola/solana" name="android_device_motorola_solana" remote="motomagic" revision="ics" />
 
-    <project path="external/bootmenu" name="android_external_bootmenu" remote="motomagic" />
+    <project path="external/bootmenu" name="android_external_bootmenu" remote="motomagic" revision="ics" />
 
-    <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="motomagic-p" />
+    <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="motomagic-p" revision="ics" />
 
 </manifest>
 
