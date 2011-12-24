@@ -7,12 +7,12 @@
 
     <project path="android_local" name="android_local" remote="motomagic" revision="ics" />
 
-    <project path="device/motorola/common" name="android_device_motorola_common" remote="motomagic" revision="ics" />
-    <project path="device/motorola/droid2" name="android_device_motorola_droid2" remote="motomagic" revision="ics" />
-    <project path="device/motorola/jordan" name="android_device_motorola_jordan" remote="motomagic" revision="ics" />
-    <project path="device/motorola/shadow" name="android_device_motorola_shadow" remote="motomagic" revision="ics" />
-    <project path="device/motorola/solana" name="android_device_motorola_solana" remote="motomagic" revision="ics" />
-    <project path="device/motorola/targa" name="android_device_motorola_targa" remote="motomagic" revision="ics" />
+    <project path="device/moto/hijack" name="android_device_moto_hijack" remote="motomagic" revision="ics" />
+    <project path="device/moto/droid2" name="android_device_moto_droid2" remote="motomagic" revision="ics" />
+    <project path="device/moto/jordan" name="android_device_moto_jordan" remote="motomagic" revision="ics" />
+    <project path="device/moto/shadow" name="android_device_moto_shadow" remote="motomagic" revision="ics" />
+    <project path="device/moto/solana" name="android_device_moto_solana" remote="motomagic" revision="ics" />
+    <project path="device/moto/targa" name="android_device_moto_targa" remote="motomagic" revision="ics" />
 
     <project path="external/bootmenu" name="android_external_bootmenu" remote="motomagic" revision="ics" />
     <project path="external/busybox" name="android_external_busybox" remote="motomagic" revision="ics" />
@@ -22,7 +22,7 @@
 
     <project path="packages/apps/Usb" name="android_packages_apps_Usb" remote="motomagic" revision="ics" />
 
-    <project path="vendor/motorola" name="android_vendor_motorola" remote="motomagic" revision="ics" />
+    <project path="vendor/moto" name="android_vendor_moto" remote="motomagic" revision="ics" />
 
 </manifest>
 
